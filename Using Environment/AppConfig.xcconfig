@@ -1,0 +1,12 @@
+//
+//  AppConfig.xcconfig
+//  ContactsApp
+//
+//  Created by Subhadeep Pal on 29/08/19.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+BASE_URL_PROTOCOL   = http
+BASE_URL_HOSTNAME   = gojek-contacts-app.herokuapp.com
+API_VERSION         = 1.0
